@@ -1,0 +1,31 @@
+header {
+    font: italic 1rem sans-serif;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(223, 223, 223);
+    padding: 20px 20px;
+  }
+  
+  
+table {
+  margin: auto;
+  text-align: center;
+  font: italic 1rem sans-serif;
+  background-color: rgb(223, 223, 223);
+
+  }
+
+  h3 {
+    font: italic 1rem sans-serif;
+    text-align: center;
+    
+  }
+
+  h2 {
+    font: italic 1rem sans-serif;
+    
+  }
+  
